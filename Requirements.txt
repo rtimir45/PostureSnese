@@ -1,0 +1,8 @@
+python 3.10.3
+streamlit
+mediapipe 
+numpy
+av
+pyttsx3
+opencv-python-headless
+pillow
